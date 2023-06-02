@@ -1,6 +1,7 @@
 [package]
 name="Math"
 version="0.0.1"
+published-at = "0x50caaafcaf180c7b897eea6de46c8556d53ca3a81046083439b2ed8ff4c3278b"
 
 [dependencies]
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir="crates/sui-framework/packages/sui-framework/", rev = "testnet" }
